@@ -1,0 +1,32 @@
+LIBRARY ieee ;
+USE ieee.std_logic_1164.all ;
+USE ieee.std_logic_unsigned.all ;
+
+ENTITY counter_RST9 IS
+	PORT 
+	( 
+		Clock, Reset, Load : IN STD_LOGIC ;
+		D : IN STD_LOGIC_VECTOR (3 DOWNTO 0) ;
+		Q : OUT STD_LOGIC_VECTOR (3 DOWNTO 0) ;
+		Carry : OUT STD_LOGIC;
+	) ;
+END counter_RST9 ;
+
+ARCHITECTURE Behavior OF counter_RST9 IS
+SIGNAL Count : STD_LOGIC_VECTOR (3 DOWNTO 0) ;
+
+BEGIN
+	PROCESS ( Clock, Resetn, Load, D )
+	BEGIN
+		IF Resetn = '1' THEN -- Reset is asynchronous, has precendence over load
+			Count <= "0000" ;
+		ELSIF (Clock'EVENT AND Clock = '1') THEN
+			IF Load = '0' THEN 
+				Count <= Count + 1 ;
+			ELSE 
+				Count <= D ;
+			END IF ;
+		END IF ;
+	END PROCESS ;
+	Q <= Count;
+END Behavior;

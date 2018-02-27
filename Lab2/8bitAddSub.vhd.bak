@@ -1,0 +1,38 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+--- 8-Bit Adder/Subtractor ---
+entity addsub_byte is
+	port
+	(
+		-- Inputs
+		INPUT_BYTE	:	in	STD_LOGIC_VECTOR(7 downto 0);
+		ADD_SUB	:	in STD_LOGIC;
+		A_ENTER	:	in	STD_LOGIC;
+		B_ENTER	:	in STD_LOGIC;
+		
+		-- Outputs
+		RESULT	:	out STD_LOGIC_VECTOR(7 downto 0);
+	);
+end addsub_byte;
+
+architecture a of addsub_byte is
+	signal byte_in : STD_LOGIC_VECTOR(7 downto 0);
+	signal operand	: STD_LOGIC;
+	signal A_latch	: STD_LOGIC;
+	signal B_latch : STD_LOGIC;
+	signal byte_out : STD_LOGIC_VECTOR(7 downto 0);
+	
+begin
+	byte_in <= INPUT_BYTE;
+	operand <= ADD_SUB;
+	A_latch <= A_ENTER;
+	B_latch <= B_ENTER;
+	byte_out <= RESULT;
+	
+	process(byte_in, operand, A_latch, B_latch,) is
+		begin
+		-- Sequential Statement(s)
+		
+	
+	end process;

@@ -1,0 +1,225 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "hexsec1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "hexsec1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "hexsec1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "hexsec1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "hexsec1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "hexsec1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "hexsec1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "hexsec10[6]",
+					"strict" : false
+				},
+				{
+					"name" : "hexsec10[5]",
+					"strict" : false
+				},
+				{
+					"name" : "hexsec10[4]",
+					"strict" : false
+				},
+				{
+					"name" : "hexsec10[3]",
+					"strict" : false
+				},
+				{
+					"name" : "hexsec10[2]",
+					"strict" : false
+				},
+				{
+					"name" : "hexsec10[1]",
+					"strict" : false
+				},
+				{
+					"name" : "hexsec10[0]",
+					"strict" : false
+				},
+				{
+					"name" : "hexmin1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "hexmin1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "hexmin1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "hexmin1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "hexmin1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "hexmin1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "hexmin1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "hexmin10[6]",
+					"strict" : false
+				},
+				{
+					"name" : "hexmin10[5]",
+					"strict" : false
+				},
+				{
+					"name" : "hexmin10[4]",
+					"strict" : false
+				},
+				{
+					"name" : "hexmin10[3]",
+					"strict" : false
+				},
+				{
+					"name" : "hexmin10[2]",
+					"strict" : false
+				},
+				{
+					"name" : "hexmin10[1]",
+					"strict" : false
+				},
+				{
+					"name" : "hexmin10[0]",
+					"strict" : false
+				},
+				{
+					"name" : "hexhr1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "hexhr1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "hexhr1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "hexhr1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "hexhr1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "hexhr1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "hexhr1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "hexhr10[6]",
+					"strict" : false
+				},
+				{
+					"name" : "hexhr10[5]",
+					"strict" : false
+				},
+				{
+					"name" : "hexhr10[4]",
+					"strict" : false
+				},
+				{
+					"name" : "hexhr10[3]",
+					"strict" : false
+				},
+				{
+					"name" : "hexhr10[2]",
+					"strict" : false
+				},
+				{
+					"name" : "hexhr10[1]",
+					"strict" : false
+				},
+				{
+					"name" : "hexhr10[0]",
+					"strict" : false
+				},
+				{
+					"name" : "sec",
+					"strict" : false
+				},
+				{
+					"name" : "input_time[0]",
+					"strict" : false
+				},
+				{
+					"name" : "input_time[1]",
+					"strict" : false
+				},
+				{
+					"name" : "input_time[2]",
+					"strict" : false
+				},
+				{
+					"name" : "input_time[3]",
+					"strict" : false
+				},
+				{
+					"name" : "input_time[4]",
+					"strict" : false
+				},
+				{
+					"name" : "input_time[5]",
+					"strict" : false
+				},
+				{
+					"name" : "input_time[6]",
+					"strict" : false
+				},
+				{
+					"name" : "input_time[7]",
+					"strict" : false
+				},
+				{
+					"name" : "min",
+					"strict" : false
+				},
+				{
+					"name" : "hr",
+					"strict" : false
+				},
+				{
+					"name" : "inclock",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

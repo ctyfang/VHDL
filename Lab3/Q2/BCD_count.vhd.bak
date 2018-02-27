@@ -1,0 +1,28 @@
+LIBRARY ieee ;
+USE ieee.std_logic_1164.all ;
+ENTITY BCD_Count IS
+	PORT -- Integer input from 0 to 15
+	( 
+		R : IN INTEGER RANGE 0 TO 15 ;
+		Clock, Reset, Load : IN STD_LOGIC ;
+		Q : BUFFER STD_LOGIC_VECTOR(3 downto 0) ;
+		Carry : OUT STD_LOGIC
+	) ;
+END BCD_Count ;
+
+ARCHITECTURE Behavior OF BCD_Count IS
+BEGIN
+	PROCESS ( Clock, Resetn )
+	BEGIN
+		IF Reset = '0' THEN -- Asynchronous reset
+			Q <= 0 ;
+		ELSIF Load 
+		ELSIF (Clock'EVENT AND Clock = '0') THEN -- Note use of falling edge
+			IF L = '1' THEN -- Load inputs
+				Q <= R ;
+			ELSE
+				Q <= Q + 1 ;
+			END IF;
+		END IF;
+	END PROCESS;
+END Behavior;

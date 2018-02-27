@@ -1,0 +1,85 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "RESULT[0]",
+					"strict" : false
+				},
+				{
+					"name" : "RESULT[1]",
+					"strict" : false
+				},
+				{
+					"name" : "RESULT[2]",
+					"strict" : false
+				},
+				{
+					"name" : "RESULT[3]",
+					"strict" : false
+				},
+				{
+					"name" : "RESULT[4]",
+					"strict" : false
+				},
+				{
+					"name" : "RESULT[5]",
+					"strict" : false
+				},
+				{
+					"name" : "RESULT[6]",
+					"strict" : false
+				},
+				{
+					"name" : "RESULT[7]",
+					"strict" : false
+				},
+				{
+					"name" : "ADD_SUB",
+					"strict" : false
+				},
+				{
+					"name" : "INPUT_BYTE[0]",
+					"strict" : false
+				},
+				{
+					"name" : "B_PRESS",
+					"strict" : false
+				},
+				{
+					"name" : "A_PRESS",
+					"strict" : false
+				},
+				{
+					"name" : "INPUT_BYTE[1]",
+					"strict" : false
+				},
+				{
+					"name" : "INPUT_BYTE[2]",
+					"strict" : false
+				},
+				{
+					"name" : "INPUT_BYTE[3]",
+					"strict" : false
+				},
+				{
+					"name" : "INPUT_BYTE[4]",
+					"strict" : false
+				},
+				{
+					"name" : "INPUT_BYTE[5]",
+					"strict" : false
+				},
+				{
+					"name" : "INPUT_BYTE[6]",
+					"strict" : false
+				},
+				{
+					"name" : "INPUT_BYTE[7]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

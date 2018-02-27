@@ -1,0 +1,677 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'counter_RST9:HR1|Carry'
+Slack : -13.983
+TNS   : -55.077
+
+Type  : Slow 1100mV 85C Model Setup 'counter_RST5:MIN10|Carry'
+Slack : -13.778
+TNS   : -66.602
+
+Type  : Slow 1100mV 85C Model Setup 'counter_RST5:SEC10|Carry'
+Slack : -13.527
+TNS   : -65.953
+
+Type  : Slow 1100mV 85C Model Setup 'scale_clock:scaled_clock|Curr'
+Slack : -12.724
+TNS   : -63.130
+
+Type  : Slow 1100mV 85C Model Setup 'counter_RST9:MIN1|Carry'
+Slack : -12.575
+TNS   : -62.305
+
+Type  : Slow 1100mV 85C Model Setup 'counter_RST9:SEC1|Carry'
+Slack : -12.322
+TNS   : -61.180
+
+Type  : Slow 1100mV 85C Model Setup 'inclock'
+Slack : -5.658
+TNS   : -87.387
+
+Type  : Slow 1100mV 85C Model Hold 'inclock'
+Slack : 0.441
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'counter_RST9:MIN1|Carry'
+Slack : 0.784
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'scale_clock:scaled_clock|Curr'
+Slack : 0.929
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'counter_RST5:SEC10|Carry'
+Slack : 0.946
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'counter_RST9:SEC1|Carry'
+Slack : 0.965
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'counter_RST5:MIN10|Carry'
+Slack : 1.477
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'counter_RST9:HR1|Carry'
+Slack : 1.621
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Recovery 'counter_RST5:MIN10|Carry'
+Slack : -18.622
+TNS   : -270.008
+
+Type  : Slow 1100mV 85C Model Recovery 'sec'
+Slack : -17.115
+TNS   : -119.005
+
+Type  : Slow 1100mV 85C Model Recovery 'hr'
+Slack : -16.789
+TNS   : -234.139
+
+Type  : Slow 1100mV 85C Model Recovery 'min'
+Slack : -16.774
+TNS   : -118.189
+
+Type  : Slow 1100mV 85C Model Recovery 'counter_RST5:SEC10|Carry'
+Slack : -12.481
+TNS   : -61.317
+
+Type  : Slow 1100mV 85C Model Recovery 'scale_clock:scaled_clock|Curr'
+Slack : -12.357
+TNS   : -60.703
+
+Type  : Slow 1100mV 85C Model Recovery 'counter_RST9:HR1|Carry'
+Slack : -12.043
+TNS   : -48.142
+
+Type  : Slow 1100mV 85C Model Recovery 'counter_RST9:SEC1|Carry'
+Slack : -11.869
+TNS   : -58.741
+
+Type  : Slow 1100mV 85C Model Recovery 'counter_RST9:MIN1|Carry'
+Slack : -11.803
+TNS   : -58.415
+
+Type  : Slow 1100mV 85C Model Removal 'hr'
+Slack : -1.336
+TNS   : -10.420
+
+Type  : Slow 1100mV 85C Model Removal 'counter_RST9:MIN1|Carry'
+Slack : 0.867
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'sec'
+Slack : 0.898
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'scale_clock:scaled_clock|Curr'
+Slack : 0.920
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'min'
+Slack : 0.938
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'counter_RST5:SEC10|Carry'
+Slack : 1.088
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'counter_RST9:HR1|Carry'
+Slack : 1.091
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'counter_RST9:SEC1|Carry'
+Slack : 1.120
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'counter_RST5:MIN10|Carry'
+Slack : 1.330
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'hr'
+Slack : -4.249
+TNS   : -132.825
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'inclock'
+Slack : -0.538
+TNS   : -23.892
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'scale_clock:scaled_clock|Curr'
+Slack : -0.538
+TNS   : -4.070
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'counter_RST9:MIN1|Carry'
+Slack : -0.538
+TNS   : -4.059
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'counter_RST5:SEC10|Carry'
+Slack : -0.538
+TNS   : -4.015
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'counter_RST5:MIN10|Carry'
+Slack : -0.538
+TNS   : -4.004
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'counter_RST9:SEC1|Carry'
+Slack : -0.538
+TNS   : -3.841
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'counter_RST9:HR1|Carry'
+Slack : -0.538
+TNS   : -3.144
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'sec'
+Slack : 0.116
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'min'
+Slack : 0.254
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'counter_RST9:HR1|Carry'
+Slack : -13.893
+TNS   : -54.663
+
+Type  : Slow 1100mV 0C Model Setup 'counter_RST5:MIN10|Carry'
+Slack : -13.639
+TNS   : -65.929
+
+Type  : Slow 1100mV 0C Model Setup 'counter_RST5:SEC10|Carry'
+Slack : -13.464
+TNS   : -65.294
+
+Type  : Slow 1100mV 0C Model Setup 'counter_RST9:MIN1|Carry'
+Slack : -12.647
+TNS   : -62.603
+
+Type  : Slow 1100mV 0C Model Setup 'scale_clock:scaled_clock|Curr'
+Slack : -12.613
+TNS   : -62.673
+
+Type  : Slow 1100mV 0C Model Setup 'counter_RST9:SEC1|Carry'
+Slack : -12.265
+TNS   : -60.963
+
+Type  : Slow 1100mV 0C Model Setup 'inclock'
+Slack : -5.760
+TNS   : -87.391
+
+Type  : Slow 1100mV 0C Model Hold 'inclock'
+Slack : 0.450
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'counter_RST9:MIN1|Carry'
+Slack : 0.868
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'scale_clock:scaled_clock|Curr'
+Slack : 0.900
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'counter_RST9:SEC1|Carry'
+Slack : 0.910
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'counter_RST5:SEC10|Carry'
+Slack : 0.913
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'counter_RST5:MIN10|Carry'
+Slack : 1.372
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'counter_RST9:HR1|Carry'
+Slack : 1.575
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Recovery 'counter_RST5:MIN10|Carry'
+Slack : -18.218
+TNS   : -263.960
+
+Type  : Slow 1100mV 0C Model Recovery 'sec'
+Slack : -16.735
+TNS   : -116.731
+
+Type  : Slow 1100mV 0C Model Recovery 'hr'
+Slack : -16.301
+TNS   : -228.050
+
+Type  : Slow 1100mV 0C Model Recovery 'min'
+Slack : -16.285
+TNS   : -115.175
+
+Type  : Slow 1100mV 0C Model Recovery 'counter_RST5:SEC10|Carry'
+Slack : -12.267
+TNS   : -60.406
+
+Type  : Slow 1100mV 0C Model Recovery 'scale_clock:scaled_clock|Curr'
+Slack : -12.207
+TNS   : -60.021
+
+Type  : Slow 1100mV 0C Model Recovery 'counter_RST9:HR1|Carry'
+Slack : -11.829
+TNS   : -47.284
+
+Type  : Slow 1100mV 0C Model Recovery 'counter_RST9:SEC1|Carry'
+Slack : -11.713
+TNS   : -58.029
+
+Type  : Slow 1100mV 0C Model Recovery 'counter_RST9:MIN1|Carry'
+Slack : -11.704
+TNS   : -57.975
+
+Type  : Slow 1100mV 0C Model Removal 'hr'
+Slack : -1.662
+TNS   : -14.737
+
+Type  : Slow 1100mV 0C Model Removal 'min'
+Slack : 0.584
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'sec'
+Slack : 0.674
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'counter_RST9:MIN1|Carry'
+Slack : 0.904
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'scale_clock:scaled_clock|Curr'
+Slack : 0.906
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'counter_RST9:HR1|Carry'
+Slack : 1.052
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'counter_RST9:SEC1|Carry'
+Slack : 1.081
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'counter_RST5:SEC10|Carry'
+Slack : 1.091
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'counter_RST5:MIN10|Carry'
+Slack : 1.267
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'hr'
+Slack : -4.166
+TNS   : -128.028
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'inclock'
+Slack : -0.538
+TNS   : -24.601
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'scale_clock:scaled_clock|Curr'
+Slack : -0.538
+TNS   : -4.058
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'counter_RST9:MIN1|Carry'
+Slack : -0.538
+TNS   : -4.007
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'counter_RST5:SEC10|Carry'
+Slack : -0.538
+TNS   : -3.978
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'counter_RST5:MIN10|Carry'
+Slack : -0.538
+TNS   : -3.966
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'counter_RST9:SEC1|Carry'
+Slack : -0.538
+TNS   : -3.849
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'counter_RST9:HR1|Carry'
+Slack : -0.538
+TNS   : -3.114
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'sec'
+Slack : 0.178
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'min'
+Slack : 0.253
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'counter_RST9:HR1|Carry'
+Slack : -6.737
+TNS   : -26.526
+
+Type  : Fast 1100mV 85C Model Setup 'counter_RST5:MIN10|Carry'
+Slack : -6.702
+TNS   : -32.505
+
+Type  : Fast 1100mV 85C Model Setup 'counter_RST5:SEC10|Carry'
+Slack : -6.491
+TNS   : -31.853
+
+Type  : Fast 1100mV 85C Model Setup 'scale_clock:scaled_clock|Curr'
+Slack : -6.127
+TNS   : -30.365
+
+Type  : Fast 1100mV 85C Model Setup 'counter_RST9:MIN1|Carry'
+Slack : -5.836
+TNS   : -29.015
+
+Type  : Fast 1100mV 85C Model Setup 'counter_RST9:SEC1|Carry'
+Slack : -5.753
+TNS   : -28.544
+
+Type  : Fast 1100mV 85C Model Setup 'inclock'
+Slack : -3.137
+TNS   : -30.163
+
+Type  : Fast 1100mV 85C Model Hold 'counter_RST9:MIN1|Carry'
+Slack : 0.185
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'inclock'
+Slack : 0.199
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'counter_RST9:SEC1|Carry'
+Slack : 0.247
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'scale_clock:scaled_clock|Curr'
+Slack : 0.355
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'counter_RST5:SEC10|Carry'
+Slack : 0.389
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'counter_RST9:HR1|Carry'
+Slack : 0.559
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'counter_RST5:MIN10|Carry'
+Slack : 0.578
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Recovery 'counter_RST5:MIN10|Carry'
+Slack : -9.927
+TNS   : -140.892
+
+Type  : Fast 1100mV 85C Model Recovery 'sec'
+Slack : -9.097
+TNS   : -60.779
+
+Type  : Fast 1100mV 85C Model Recovery 'hr'
+Slack : -9.017
+TNS   : -124.725
+
+Type  : Fast 1100mV 85C Model Recovery 'min'
+Slack : -8.993
+TNS   : -60.977
+
+Type  : Fast 1100mV 85C Model Recovery 'counter_RST5:SEC10|Carry'
+Slack : -6.077
+TNS   : -29.613
+
+Type  : Fast 1100mV 85C Model Recovery 'scale_clock:scaled_clock|Curr'
+Slack : -5.945
+TNS   : -29.046
+
+Type  : Fast 1100mV 85C Model Recovery 'counter_RST9:HR1|Carry'
+Slack : -5.651
+TNS   : -22.594
+
+Type  : Fast 1100mV 85C Model Recovery 'counter_RST9:MIN1|Carry'
+Slack : -5.492
+TNS   : -27.201
+
+Type  : Fast 1100mV 85C Model Recovery 'counter_RST9:SEC1|Carry'
+Slack : -5.487
+TNS   : -27.204
+
+Type  : Fast 1100mV 85C Model Removal 'hr'
+Slack : -0.466
+TNS   : -2.733
+
+Type  : Fast 1100mV 85C Model Removal 'scale_clock:scaled_clock|Curr'
+Slack : 0.161
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'counter_RST9:MIN1|Carry'
+Slack : 0.170
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'counter_RST5:SEC10|Carry'
+Slack : 0.236
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'counter_RST9:SEC1|Carry'
+Slack : 0.279
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'counter_RST9:HR1|Carry'
+Slack : 0.304
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'sec'
+Slack : 0.453
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'min'
+Slack : 0.524
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'counter_RST5:MIN10|Carry'
+Slack : 0.586
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'hr'
+Slack : -2.297
+TNS   : -57.834
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'inclock'
+Slack : -0.291
+TNS   : -3.039
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'sec'
+Slack : -0.114
+TNS   : -1.225
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'min'
+Slack : -0.048
+TNS   : -0.618
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'scale_clock:scaled_clock|Curr'
+Slack : 0.056
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'counter_RST5:SEC10|Carry'
+Slack : 0.106
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'counter_RST9:MIN1|Carry'
+Slack : 0.106
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'counter_RST5:MIN10|Carry'
+Slack : 0.118
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'counter_RST9:SEC1|Carry'
+Slack : 0.143
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'counter_RST9:HR1|Carry'
+Slack : 0.145
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'counter_RST9:HR1|Carry'
+Slack : -6.085
+TNS   : -23.996
+
+Type  : Fast 1100mV 0C Model Setup 'counter_RST5:MIN10|Carry'
+Slack : -6.061
+TNS   : -29.286
+
+Type  : Fast 1100mV 0C Model Setup 'counter_RST5:SEC10|Carry'
+Slack : -5.898
+TNS   : -28.844
+
+Type  : Fast 1100mV 0C Model Setup 'scale_clock:scaled_clock|Curr'
+Slack : -5.559
+TNS   : -27.576
+
+Type  : Fast 1100mV 0C Model Setup 'counter_RST9:MIN1|Carry'
+Slack : -5.327
+TNS   : -26.521
+
+Type  : Fast 1100mV 0C Model Setup 'counter_RST9:SEC1|Carry'
+Slack : -5.248
+TNS   : -25.970
+
+Type  : Fast 1100mV 0C Model Setup 'inclock'
+Slack : -2.794
+TNS   : -25.964
+
+Type  : Fast 1100mV 0C Model Hold 'counter_RST9:MIN1|Carry'
+Slack : 0.173
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'inclock'
+Slack : 0.189
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'counter_RST9:SEC1|Carry'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'scale_clock:scaled_clock|Curr'
+Slack : 0.317
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'counter_RST5:SEC10|Carry'
+Slack : 0.339
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'counter_RST9:HR1|Carry'
+Slack : 0.494
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'counter_RST5:MIN10|Carry'
+Slack : 0.547
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Recovery 'counter_RST5:MIN10|Carry'
+Slack : -8.825
+TNS   : -125.459
+
+Type  : Fast 1100mV 0C Model Recovery 'sec'
+Slack : -7.982
+TNS   : -53.444
+
+Type  : Fast 1100mV 0C Model Recovery 'hr'
+Slack : -7.903
+TNS   : -109.314
+
+Type  : Fast 1100mV 0C Model Recovery 'min'
+Slack : -7.873
+TNS   : -53.592
+
+Type  : Fast 1100mV 0C Model Recovery 'counter_RST5:SEC10|Carry'
+Slack : -5.480
+TNS   : -26.749
+
+Type  : Fast 1100mV 0C Model Recovery 'scale_clock:scaled_clock|Curr'
+Slack : -5.383
+TNS   : -26.318
+
+Type  : Fast 1100mV 0C Model Recovery 'counter_RST9:HR1|Carry'
+Slack : -5.104
+TNS   : -20.406
+
+Type  : Fast 1100mV 0C Model Recovery 'counter_RST9:MIN1|Carry'
+Slack : -5.007
+TNS   : -24.794
+
+Type  : Fast 1100mV 0C Model Recovery 'counter_RST9:SEC1|Carry'
+Slack : -4.978
+TNS   : -24.695
+
+Type  : Fast 1100mV 0C Model Removal 'hr'
+Slack : -0.582
+TNS   : -4.570
+
+Type  : Fast 1100mV 0C Model Removal 'scale_clock:scaled_clock|Curr'
+Slack : 0.125
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'counter_RST9:MIN1|Carry'
+Slack : 0.150
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'counter_RST5:SEC10|Carry'
+Slack : 0.200
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'sec'
+Slack : 0.232
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'counter_RST9:SEC1|Carry'
+Slack : 0.237
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'counter_RST9:HR1|Carry'
+Slack : 0.240
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'min'
+Slack : 0.274
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'counter_RST5:MIN10|Carry'
+Slack : 0.524
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'hr'
+Slack : -2.060
+TNS   : -47.988
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'inclock'
+Slack : -0.284
+TNS   : -3.110
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'sec'
+Slack : -0.089
+TNS   : -0.795
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'min'
+Slack : -0.026
+TNS   : -0.214
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'scale_clock:scaled_clock|Curr'
+Slack : 0.077
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'counter_RST9:MIN1|Carry'
+Slack : 0.116
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'counter_RST5:SEC10|Carry'
+Slack : 0.118
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'counter_RST5:MIN10|Carry'
+Slack : 0.133
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'counter_RST9:SEC1|Carry'
+Slack : 0.146
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'counter_RST9:HR1|Carry'
+Slack : 0.150
+TNS   : 0.000
+
+------------------------------------------------------------

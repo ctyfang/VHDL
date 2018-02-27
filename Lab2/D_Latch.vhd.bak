@@ -1,0 +1,27 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity D_latch is
+	port
+	(
+		D	: in STD_LOGIC;
+		ENA	: in STD_LOGIC;
+		Q	:	out STD_LOGIC
+	);
+end D_latch;
+
+architecture a of D_latch is
+	signal DATA	: STD_LOGIC;
+	
+begin
+	process(D, ENA, DATA) is
+	begin
+		if ENA = '1' then
+			DATA <= D;
+		else
+			DATA <= DATA;
+		end if;
+		
+		Q <= DATA;
+	end process;
+end a;
